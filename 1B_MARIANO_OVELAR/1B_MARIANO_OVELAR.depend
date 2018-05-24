@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1525961356 source:d:\1b_mariano_ovelar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1525957113 source:d:\1b_mariano_ovelar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1525959740 d:\1b_mariano_ovelar\funciones.h
+
+1526544578 source:f:\1b_mariano_ovelar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1526550482 f:\1b_mariano_ovelar\funciones.h
+
+1527152200 source:f:\1b_mariano_ovelar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	"propietario_funciones.h"
+	"autos_funciones.h"
+
+1527146778 f:\1b_mariano_ovelar\propietario_funciones.h
+
+1527148928 source:f:\1b_mariano_ovelar\propietario_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+
+1527151896 source:f:\1b_mariano_ovelar\autos_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+
+1527151864 f:\1b_mariano_ovelar\autos_funciones.h
+
+1526548552 source:e:\1b_mariano_ovelar\autos_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+
+1526551596 e:\1b_mariano_ovelar\propietario_funciones.h
+
+1526551596 e:\1b_mariano_ovelar\autos_funciones.h
+
+1526550482 e:\1b_mariano_ovelar\funciones.h
+
+1526544578 source:e:\1b_mariano_ovelar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1526551994 source:e:\1b_mariano_ovelar\propietario_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+
+1526560728 source:e:\1b_mariano_ovelar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	"propietario_funciones.h"
+	"autos_funciones.h"
+
+1527151896 source:d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\autos_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+
+1527146778 d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\propietario_funciones.h
+
+1527151864 d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\autos_funciones.h
+
+1526550482 d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\funciones.h
+
+1526544578 source:d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1527171383 source:d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+	"propietario_funciones.h"
+	"autos_funciones.h"
+
+1527148928 source:d:\recuperatorio\recuperatoriolab1lenguajec\1b_mariano_ovelar\propietario_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"propietario_funciones.h"
+	"autos_funciones.h"
+	"funciones.h"
+

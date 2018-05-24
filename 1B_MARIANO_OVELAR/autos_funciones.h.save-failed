@@ -1,0 +1,32 @@
+
+typedef struct
+{
+    char patente[20];
+    int idPropietario;
+    int marca;
+    int estado;
+    int id;
+}Eauto;
+
+
+void inicializarAutosHardCode(Eauto lista[]);
+
+int obtenerEspacioLibreEstacionamiento(Eauto lista[],int tam);
+
+int cargaDeDatosAuto(Eauto lista[],Epropietario listaPro[],int lugar,int tam,int tamPro);
+
+int validarPatente(char dato[],Eauto lista[],int tam);
+
+float devolverPrecio(Eauto listaAuto[],int lugar);
+
+int buscarPatente(Eauto lista[],char dato[],int tam);
+
+int iniEstadoAuto(Eauto lista[],int tam);
+
+int darBajaAuto(Eauto lista[],int ubicacion);
+
+void devolverMarca(Eauto listaAuto[],int lugar,char dato[]);
+
+void mostrarAutoConPropietario(Eauto listaAuto[],Epropietario listaPropietario[],int lugarAuto,int tamPropietarios);
+
+int mostrarListaAutos(Eauto lista[],int tam);
